@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520423580831",
+    "project_id": "kullaauth",
+    "storage_bucket": "kullaauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520423580831:android:c1f7e352fa3210668f6eaa",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOhaCZyDUCUGRy_neZO2UFyBlz9X49YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
